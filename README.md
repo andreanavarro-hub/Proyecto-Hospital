@@ -7,8 +7,8 @@ Este proyecto es un sistema interactivo de consola desarrollado en Python para l
 3. Preparar la base de datos local: Ubica los archivos estado_camas.txt y personal.txt en la misma carpeta que el script. Puedes encontrarla en la carpeta del repositorio.
 
 # Estructura de archivos
- - archivo estado_camas.txt es esencial para que el programa cargue las habitaciones del hospital. Este archivo contiene el número de la habitación, tipo (A - B), número de camas, disponibilidad y el id del paciente que ocupa la cama.
-- archivo personal.txt contiene el usuario, contraseña y rol que pueden iniciar sesión en el programa y para los cuales se desplegará un menú de funciones.
+ - archivo: estado_camas.txt es esencial para que el programa cargue las habitaciones del hospital. Este archivo contiene el número de la habitación, tipo (A - B), número de camas, disponibilidad y el id del paciente que ocupa la cama.
+- archivo: personal.txt contiene el usuario, contraseña y rol que pueden iniciar sesión en el programa y para los cuales se desplegará un menú de funciones.
 - El programa genera un carpeta llamada archivos, en la cual se archivan las historias de los pacientes facturados.
   
 # Roles para inicio de sesión
