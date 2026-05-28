@@ -1,0 +1,33 @@
+TipoA                  Formato de camas:
+Numhab,tipoHabitacion, cama - disponibilidad - idpaciente
+1, tipoA, 1 - disponible - N/A
+2, tipoA, 1 - disponible - N/A
+3, tipoA, 1 - disponible - N/A
+4, tipoA, 1 - disponible - N/A
+5, tipoA, 1 - disponible - N/A
+6, tipoA, 1 - disponible - N/A
+7, tipoA, 1 - disponible - N/A
+8, tipoA, 1 - disponible - N/A
+9, tipoA, 1 - disponible - N/A
+10, tipoA, 1 - disponible - N/A
+TipoB
+11, tipoB, 1 - disponible - N/A | 2 - disponible - N/A 
+12, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+13, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+14, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+15, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+16, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+17, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+18, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+19, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+20, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+21, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+22, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+23, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+24, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+25, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+26, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+27, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+28, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+29, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
+30, tipoB, 1 - disponible - N/A | 2 - disponible - N/A
