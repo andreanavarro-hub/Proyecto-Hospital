@@ -4,7 +4,7 @@ Este proyecto es un sistema interactivo de consola desarrollado en Python para l
 # Configuracion inicial
 1. Installar python: Se recomiendo la versión 3
 2. Descargar el proyecto
-3. Preparar la base de datos local: Ubica los archivos estado_camas.txt y personal.txt en la misma carpeta que el script. Puedes encontrarla en la carpeta archivos.zip del repositorio.
+3. Preparar la base de datos local: Ubica los archivos estado_camas.txt y personal.txt en la misma carpeta que el script. Loa archivos se encuentran en la carpeta archivos.zip del repositorio.
 
 # Estructura de archivos
  - El archivo: estado_camas.txt es esencial para que el programa cargue las habitaciones del hospital. Este archivo contiene el número de la habitación, tipo (A - B), número de camas, disponibilidad y el id del paciente que ocupa la cama.
