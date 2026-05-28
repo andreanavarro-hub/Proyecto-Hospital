@@ -1,4 +1,0 @@
-Usuario , Contraseña , Rol
-111,01Andrea,ADMIN
-112,01Mabelin,MEDICO
-113,01Matias,ENFERMERA
